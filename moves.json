@@ -1,0 +1,14 @@
+{
+    "Punch": {
+        "damage": 10,
+        "description": "Player punches their opponent!"
+    },
+    "Kick": {
+        "damage": 15,
+        "description": "Player kicks their opponent!"
+    },
+    "Block": {
+        "damage": 0,
+        "description": "Player blocks their opponent's attack!"
+    }
+}

@@ -1,0 +1,36 @@
+{
+    "player1":{
+       "movements":[
+          "D",
+          "DSD",
+          "S",
+          "DSD",
+          "SD"
+       ],
+       "punching":[
+          "K",
+          "P",
+          "",
+          "K",
+          "P"
+       ],
+       "energy": 6
+    },
+    "player2":{
+       "movements":[
+          "SA",
+          "SA",
+          "SA",
+          "ASA",
+          "SA"
+       ],
+       "punching":[
+          "K",
+          "",
+          "K",
+          "P",
+          "P"
+       ],
+       "energy": 6
+    }
+ }
